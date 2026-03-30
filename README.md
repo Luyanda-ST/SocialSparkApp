@@ -8,10 +8,8 @@ SocialSpark is a simple Android app that gives users message suggestions based o
 
 ---
 
-## 📱 <img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/609994ed-e50f-4b0d-9b82-990671154670" />
-<img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/609994ed-e50f-4b0d-9b82-990671154670" />
-<img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/a1760fdd-7382-42aa-895d-b15b778e4bdd" />
-<img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/a1760fdd-7382-42aa-895d-b15b778e4bdd" />
+## 📱 <img width="638" height="1084" alt="Screenshot 2026-03-30 204506" src="https://github.com/user-attachments/assets/5c2ae189-5d29-4865-9d29-94a1128b3219" />
+
 
 
 | Home Screen | Input & Suggestion |
@@ -51,7 +49,7 @@ Follow these steps to get a local copy up and running.
 ### Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/SocialSpark.git
+    git clone https://github.com/Luyanda-ST/SocialSpark.git
     ```
 2. **Open the project in Android Studio:**  
    Go to **File > Open** and select the cloned folder.
