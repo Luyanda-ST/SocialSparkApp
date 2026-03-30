@@ -12,11 +12,6 @@ SocialSpark is a simple Android app that gives users message suggestions based o
 
 
 
-| Home Screen | Input & Suggestion |
-|:---:|:---:|
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/suggestion_example.png" width="200"> |
-
----
 
 ## ✨ Features
 
@@ -32,8 +27,7 @@ SocialSpark is a simple Android app that gives users message suggestions based o
 * **Language:** Kotlin  
 * **UI Framework:** XML Layouts with ConstraintLayout & CardView  
 * **Architecture:** Simple Activity-based logic  
-* **Asynchronous Programming:** None needed (basic UI)  
-* **Dependencies:** AndroidX libraries, Material Design Components
+
 
 ---
 
