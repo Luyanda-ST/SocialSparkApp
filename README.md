@@ -8,7 +8,11 @@ SocialSpark is a simple Android app that gives users message suggestions based o
 
 ---
 
-## 📱 Screenshots
+## 📱 <img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/609994ed-e50f-4b0d-9b82-990671154670" />
+<img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/609994ed-e50f-4b0d-9b82-990671154670" />
+<img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/a1760fdd-7382-42aa-895d-b15b778e4bdd" />
+<img width="1048" height="920" alt="Screenshot 2026-03-05 085155" src="https://github.com/user-attachments/assets/a1760fdd-7382-42aa-895d-b15b778e4bdd" />
+
 
 | Home Screen | Input & Suggestion |
 |:---:|:---:|
